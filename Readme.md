@@ -5,3 +5,11 @@ Projeto 1: [AdivinhaNumero](https://github.com/siddigo/SENAI.Portugol/blob/main/
 Projeto 2: [CaixaMercearia](https://github.com/siddigo/SENAI.Portugol/blob/main/CaixaMercearia.por) - Aqui, o desafio era criar um sistema de caixa registradora para mercearia, onde o usuário identificasse os produtos na hora (sem um banco de dados). Além disso, era necessário inserir um desconto de 5% para todos os produtos que fossem adquiridos em quantidade superior a 3. Outra coisa importante era o uso de vetores para salvar quantidade, valor unitario e total por produto, sendo esse ultimo sempre calculado no momento da inserção do produto.
 
 Projeto 3: [RPGTexto](https://github.com/siddigo/SENAI.Portugol/blob/main/RPGTexto.por) - Em equipe (Eu, Zé, Milo e Wagner - não tenho os Gits), precisavamos escrever um RPG de texto com vários finais, baseado em respostas de sim/não. A ideia base do jogo foi escrita pelo chatGPT e adaptada por nós para a atividade. Desenvolvi as funções base (Reinicio, Decisao, Pausa, FimDaJornada) e comecei desenvolvendo as fases Introducao, PrimeiraFase e SegundaFase. Com isso, a equipe continuou o desenvolvimento das fases posteriores.
+
+Projeto 4: [OrdenacaoMergeSort](https://github.com/siddigo/senai-portugol/blob/main/OrdenacaoMergeSort.por) - Função de Ordenação de array utilizando o método Merge Sort.
+
+Projeto 5: [OrdenacaoBubbleSort](https://github.com/siddigo/senai-portugol/blob/main/OrdenacaoBubbleSort.por) - Função de Ordenação de array utilizando o método Bubble Sort.
+
+Projeto 6: [QuizDinamico](https://github.com/siddigo/senai-portugol/blob/main/QuizDinamico) - Um mini-sistema para criação de quizes de múltipla escolha, cadastrando perguntas e respostas, possibilitando também responder aos quizes, recebendo uma nota.
+
+Projeto 7: [SweetFlight](https://github.com/siddigo/senai-portugol/blob/main/SweetFlight.por) - Projeto final do curso, onde era necessário criar um sistema de cadastro de passageiros em um vôo, controlando reservas (poltronas disponíveis e ocupadas), além de proporcionar relatórios do vôo
